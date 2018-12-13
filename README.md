@@ -1,4 +1,5 @@
-Basic Exploratory Data Analysis and Probability Estimation in R
+##Basic Exploratory Data Analysis and Probability Estimation in R##
+
 
 Introduction
 The data to be used for this assignment can be found in the file Drugs.txt. It includes data published by OECD on pharmaceutical drug spending by countries with indicators such as a share of total health spending, in USD per capita (using economy-wide PPPs) and as a share of GDP. Plus, total spending by each countries in the specific year.
